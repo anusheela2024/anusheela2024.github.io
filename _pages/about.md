@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>Chemical Sciences and Engineering Divison</p>
     <p>Argonne National Laboratory</p>
     <p>9700 S. Cass Avenue, Lemont, IL 60559</p>
 
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I am Anusheela, currently a Postdoctoral Researcher at the Argonne National Laboratory.
-My research focuses on ...
+My research focuses on X-ray characterization to study atomic scale interfacial structures.
 
 Prior to this, I completed my PhD from the Northwestern University.<br>
 
